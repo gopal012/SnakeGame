@@ -52,14 +52,14 @@
 #scoreBox{
     position: absolute;
     top: 9px;
-    right: 200px;
+    right: 170px;
     font-size: 39px;
     font-weight: bolder;
 }
 #hiscoreBox{
     position: absolute;
     top: 49px;
-    right: 170px;
+    right: 100px;
     font-size: 39px;
     font-weight: bolder;
 }
